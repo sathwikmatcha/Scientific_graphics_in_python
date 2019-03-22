@@ -78,6 +78,99 @@ URL: [Заметки по программированию в науках о З
 
 + Глава 5 [Рисунок](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P2%20Chapter%205%20Figure%20container.ipynb)
 
+In English:
+
+Scientific graphics in python
+Author: Shabanov Pavel Alexandrovich
+
+E-mail: pa.shabanov@gmail.com
+
+URL: Programming Notes in Earth Sciences
+
+Last updated: August 31, 2015
+
+UDC 004.432.2 python
+
+Introduction
+This electronic manual in Russian is devoted to working with scientific graphics using the matplotlib graphic library of the python programming language.
+
+The textbook is designed for everyone to learn the matplotlib library to create scientific graphics in python. The book will be of interest to students, graduate students and researchers of all ages.
+
+The main purpose of the manual is to facilitate the study of the matplotlib library and to offer a number of ready-made solutions for creating high-quality, scientific-quality scientific graphics. The examples given in the textbook show the capabilities of the python language for visualizing the results of scientific activities.
+
+Material proficiency
+For fruitful work with the manual, the user needs to be able to program in python, to know the basics of this language. Interesting in my opinion and free educational materials on python are collected on the python page of my blog.
+
+Installation issues of the matplotlib library are not considered here, since it is often included by default in various python distributions or it is easy to install it yourself on any OS.
+
+Description
+The manual consists of 13 chapters, combined in 3 parts.
+
+The first part is devoted to getting acquainted with the matplotlib library. Here are the basics of creating graphics in matplotlib using the pyplot module.
+
+The second part describes the logical structure of the drawing in matplotlib and reveals the features of working with drawing elements of different hierarchical levels: drawing, drawing areas, coordinate axes, axial divisions. Showing the basics of working with matplotlib in object-oriented style.
+
+The third part is devoted to special elements of the picture: a legend, a color scale, special types of drawing area and coordinate axes.
+
+Each chapter of the textbook contains a brief introduction, a list of useful electronic resources on the topic of the chapter, a practical guide and a few examples.
+
+Distribution License and Copyright
+The manual is intended for non-commercial use. All rights reserved.
+
+The author is convinced that knowledge needs to be shared. All of us, explicitly or implicitly, have learned, are learning, and are likely to teach others. This manual was specially created as an electronic resource so that it can be actively used from anywhere in the world where there is access to the Internet.
+
+Therefore, this manual can be freely downloaded (storing it on the GitHub site is not accidental), used for personal and educational purposes, that is, sharing it with other users.
+
+I remind you that you should not forget to indicate the sources of their origin, including when using the materials of this textbook. For your convenience, here is a link to an electronic resource according to GOST 2008.
+
+Link to the textbook:
+
+Shabanov P.A. Scientific graphics in python [Electronic resource]. URL: https://github.com/whitehorn/Scientific_graphics_in_python (08/31/2015).
+
+Thanks
+It is always nice to see and feel the usefulness of your work!
+
+If you have a desire to thank the author for his work on the work on the textbook, then you can transfer the sum of money that you deem appropriate, in the following ways:
+
+Yandeks.koshelka Number: 410011857034212
+
+Account number in Sberbank of Russia: 408 17 810 3 38116467434
+
+Perhaps the efforts of the community will soon be published a printed version of the textbook (with additional materials and examples).
+
+Table of contents
+Part I Basics of matplotlib
+
+Chapter 1 The matplotlib library. Pyplot
+
+Chapter 2 Basic Graphic Commands
+
+Chapter 3 Working with Text and Fonts
+
+Chapter 4 Color and color palette
+
+Part II The structure of the pattern in matplotlib
+
+Chapter 5 Figure
+
+Chapter 6 Drawing Area
+
+Chapter 7 Multi-window drawings
+
+Chapter 8 Coordinate Axes
+
+Chapter 9 Divisions of Coordinate Axes
+
+Part III Special elements of the pattern in matplotlib
+
+Chapter 10 Features of the coordinate axes
+
+Chapter 11 Charts in the polar coordinate system
+
+Chapter 12 Legend
+
+Chapter 13 Color Scale
+
 + Глава 6 [Область рисования](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P2%20Chapter%206%20Axes%20container.ipynb)
 
 + Глава 7 [Мультиоконные рисунки](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P2%20Chapter%207%20Subplots.ipynb)
